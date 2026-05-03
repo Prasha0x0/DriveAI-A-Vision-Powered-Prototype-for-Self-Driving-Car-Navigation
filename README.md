@@ -12,18 +12,18 @@ i) Object detection using YOLOv8n
 ii) Processing of traffic elements (vehicles, obstacles, etc.)  
 
 Challenges & Solutions
-Processing latency → Solved using edge–cloud split architecture
-Lighting variations → Handled using HSV-based thresholding
-Network instability → Implemented failsafe steering mode
-Real-time constraints → Lightweight YOLOv8n model used on server
+Processing latency → Solved using edge–cloud split architecture  
+Lighting variations → Handled using HSV-based thresholding  
+Network instability → Implemented failsafe steering mode  
+Real-time constraints → Lightweight YOLOv8n model used on server  
 
-Tech Stack
-Python
-OpenCV
-Raspberry Pi
-YOLOv8n (Ultralytics)
-Socket streaming
-NumPy
+Tech Stack  
+Python  
+OpenCV  
+Raspberry Pi  
+YOLOv8n (Ultralytics)  
+Socket streaming  
+NumPy  
 
 
 
