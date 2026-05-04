@@ -16,6 +16,7 @@ Processing latency → Solved using edge–cloud split architecture
 Lighting variations → Handled using HSV-based thresholding  
 Network instability → Implemented failsafe steering mode  
 Real-time constraints → Lightweight YOLOv8n model used on server  
+System Reliability → Enhanced with a heartbeat-based failsafe mechanism, enabling rapid detection of failures and preventing potential accidents.  
 
 Tech Stack  
 Python  
