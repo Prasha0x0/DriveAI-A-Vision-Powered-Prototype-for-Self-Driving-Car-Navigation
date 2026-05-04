@@ -11,7 +11,7 @@ Remote Server (Laptop)
 i) Object detection using YOLOv8n  
 ii) Processing of traffic elements (vehicles, obstacles, etc.)  
 
-Challenges & Solutions
+Challenges & Solutions  
 Processing latency → Solved using edge–cloud split architecture  
 Lighting variations → Handled using HSV-based thresholding  
 Network instability → Implemented failsafe steering mode  
